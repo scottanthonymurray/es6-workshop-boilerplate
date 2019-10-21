@@ -193,6 +193,6 @@ By `throw`ing an error (or using [`reject` in the case of a `Promise`](https://d
 
 ## Workshop challenge repos
 
-- [Campus Locator](https://github.com/scottanthonymurray/es6-workshop-campus-detect)
+- [Campus Detection](https://github.com/scottanthonymurray/es6-workshop-campus-detect)
 - [Status.IU](https://github.com/scottanthonymurray/es6-workshop-status)
 - [Knowledge Management System](https://github.com/scottanthonymurray/es6-workshop-kms)
