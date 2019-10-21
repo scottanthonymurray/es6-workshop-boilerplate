@@ -190,3 +190,9 @@ By `throw`ing an error (or using [`reject` in the case of a `Promise`](https://d
 - [Code Smells (Refactoring Guru)](https://refactoring.guru/refactoring/smells)
 - [Bundling JavaScript Code with Rollup.js](https://github.com/levimcg/js-workshop-rollup)
 - [Introduction to Grunt, Gulp, and webpack](https://github.com/illusivesunrae/node-project-boilerplate/wiki)
+
+## Workshop challenge repos
+
+- [Campus Locator](https://github.com/scottanthonymurray/es6-workshop-campus-detect)
+- [Status.IU](https://github.com/scottanthonymurray/es6-workshop-status)
+- [Knowledge Management System](https://github.com/scottanthonymurray/es6-workshop-kms)
