@@ -188,4 +188,5 @@ By `throw`ing an error (or using [`reject` in the case of a `Promise`](https://d
 
 - [JavaScript Classes (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [Code Smells (Refactoring Guru)](https://refactoring.guru/refactoring/smells)
+- [Bundling JavaScript Code with Rollup.js](https://github.com/levimcg/js-workshop-rollup)
 - [Introduction to Grunt, Gulp, and webpack](https://github.com/illusivesunrae/node-project-boilerplate/wiki)
